@@ -1,0 +1,15 @@
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\bin\Debug\net6.0\task22.exe
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\bin\Debug\net6.0\task22.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\refint\task22.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework003\-Arrays-and-functions-in-programming-Homework002-\task22\obj\Debug\net6.0\ref\task22.dll
